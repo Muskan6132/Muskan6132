@@ -1,6 +1,7 @@
 - 👋 Hi, I’ Muskan Goyal
+-  I am Student of MCA
 - 👀 I’m interested in Working With Technology 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
