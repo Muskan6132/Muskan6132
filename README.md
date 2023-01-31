@@ -1,4 +1,4 @@
-- 👋 Hi, I’ Muskan Goyal
+- 👋 Hi, I’m Muskan Goyal
 -  I am student of MCA
 - 👀 I’m interested in Working With Technology 
 - 🌱 I’m currently learning Kotlin
