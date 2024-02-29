@@ -42,6 +42,7 @@ Feel free to reach out to me through the following channels:
 
 - LinkedIn: https://www.linkedin.com/in/muskangoyal6132/
 - Email: muskangoyalmka@gmail.com
+- Phone: 7488556132
 
 ## Let's Collaborate:
 
